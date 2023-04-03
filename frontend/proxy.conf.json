@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://kassa.bifit.com",
+    "secure": false
+  }
+}
