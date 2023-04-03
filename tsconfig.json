@@ -20,7 +20,6 @@
     "module": "ES2022",
     "useDefineForClassFields": false,
     "lib": [
-      "ES2022",
       "dom"
     ]
   },
@@ -28,6 +27,7 @@
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "strictTemplates": true,
+    "allowSyntheticDefaultImports": true
   }
 }
